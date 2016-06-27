@@ -1,0 +1,78 @@
+body{
+    background-color: aliceblue;
+}
+#wrapper {
+    
+    width: 850px;
+    height: 300px;
+    text-align: center;
+    font-family: impact;
+    position: relative;
+    left: 525px;
+    
+}
+
+#deHalThumb {
+    width: 240px;
+    height: 150px;
+    margin: 5px;
+    border: 10px solid black;
+}
+
+#trickersThumb {
+    width: 240px;
+    height: 150px;
+   margin: 5px;
+    border: 10px solid black;
+}
+
+#etenThumb {
+    width: 240px;
+    height: 150px;
+    margin: 5px;
+    border: 10px solid black;
+}
+ 
+#deHalMain {
+    width: 480px;
+    height: 300px;
+    padding: 2%;
+    border-radius: 15%;
+}
+
+#trickersMain {
+     width: 480px;
+    height: 300px;
+    padding: 2%;
+    border-radius: 15%;
+}
+
+#etenMain {
+     width: 480px;
+    height: 300px;
+    padding: 2%;
+    border-radius: 15%;
+}
+
+.modaal-ven {
+    position: fixed;
+ font-family: impact;
+ top: 0;
+ right: 0;
+ bottom: 0;
+ left: 0;
+ background: rgba(0,0,0,0.8);
+ 
+    
+}
+
+.modaal-in {
+    position: relative;
+
+ padding: 5px 20px 13px 20px;
+ border-radius: 15px;
+ background: #fff;
+}
+
+
+
